@@ -23,6 +23,12 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+## Cross-functional Release Signoff Checklist
+- [ ] QA Lead confirms planned testing is complete and critical defects are resolved or accepted
+- [ ] UX/UI Designer validates final UX behavior and accessibility expectations for changed flows
+- [ ] Technical Writer confirms user-facing and internal docs are updated and linked
+- [ ] Release Manager confirms rollout/rollback plan, communications, and on-call readiness
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call

@@ -41,3 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX/accessibility acceptance criteria identified for in-scope features
+- [ ] Release ownership and rollback expectations confirmed
+- [ ] Documentation deliverables and owners identified
